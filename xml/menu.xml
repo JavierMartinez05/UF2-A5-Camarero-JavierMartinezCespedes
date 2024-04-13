@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <category name="Entrants">
+    <dish>
+      <name>Samfaina</name>
+      <description>Sofrito de dados de calabacín y berenjena, con ajo picado, cebolla, tomate rallado y aceite de oliva</description>
+      <calorias>120 kcal</calorias>
+      <price> 3.50€</price>
+    </dish>
+    <dish>
+      <name>Escalivada</name>
+      <description>Tiras de berenjena, pimiento rojo y cebolla. Se cocinan al horno con aceite de oliva. Se suele preparar también con anchoas y también se puede comer como acompañamiento de carnes o pescados</description>
+      <calorias>60 kcal/unidad</calorias>
+      <price> 4.50€</price>
+    </dish>
+    <dish>
+      <name>Robellón</name>
+      <description>Seta muy típica, de color anaranjado, que se cocina con ajo y perejil. Se puede degustar sola o como guarnición, sobre todo de carne</description>
+      <calorias>75 kcal</calorias>
+      <price> 5.50€</price>
+    </dish>
+    <dish>
+      <name>Buñuelos de bacalao</name>
+      <description>Mezcla el bacalao con una pasta a base de agua, leche, harina y huevos, y se fríe dándosele su característica forma de bola de pescado</description>
+      <calorias>225 kcal</calorias>
+      <caracteristicas> 
+        <item tipo3="pescado"></item>
+      </caracteristicas>
+      <price> 6.00€</price>
+    </dish>
+    <dish>
+      <name>Coca</name>
+      <description>Suele ser dulce, pero también las hay saladas o agridulces y funcionan muy bien como entrante para una comida</description>
+      <calorias>75 kcal</calorias>
+      <price> 6.50€</price>
+    </dish>
+    <dish>
+      <name>Esqueixada</name>
+      <description>Ensalada que incluye bacalao desmigado, cebolla, olivas negras, aliño, tomate y huevo duro</description>
+      <calorias>75 kcal</calorias>
+      <price> 6.50€</price>
+      <caracteristicas> 
+        <item tipo3="pescado"></item>
+      </caracteristicas>
+    </dish>
+  </category>
+  <category name="Tapes típiques">
+    <dish>
+      <name>Ración de Jamón de Bellota</name>
+      <calorias>393 kcal</calorias>
+      <price> 18.00€</price>
+    </dish>
+    <dish>
+      <name>Ración de Jamón Ibérico</name>
+      <calorias>240 kcal</calorias>
+      <price> 14.90€</price>
+    </dish>
+    <dish>
+      <name>Ración de Pan con tomate</name>
+      <calorias>97 kcal</calorias>
+      <price> 5.20€</price>
+    </dish>
+    <dish>
+      <name>Ración de queso manchego</name>
+      <calorias>400 kcal</calorias>
+      <price>9.00€</price>
+    </dish>
+    <dish>
+      <name>Ración de roquetas de pollo</name>
+      <description>Roll grande de arroz con verduras y huevo por fuera</description>
+      <calorias>275 kcal</calorias>
+      <price> 10.20€</price>
+    </dish>
+    <dish>
+      <name>Ración de olivas</name>
+      <calorias>40 kcal</calorias>
+      <price> 3.00€</price>
+    </dish>
+    <dish>
+      <name>Ración de Chipirones</name>
+      <calorias>300 kcal</calorias>
+      <price>12.20€</price>
+      <caracteristicas> 
+        <item tipo3="pescado"></item>
+      </caracteristicas>
+    </dish>
+
+    <dish>
+      <name>Fideuá al estilo catalán</name>
+      <description>Podemos considerar este plato como la especialidad de nuestro chef, acompañada con mariscos como rape, calamar, gambas o mejillones</description>
+      <calorias>175 kcal</calorias>
+      <price>20.20€</price>
+      <caracteristicas> 
+        <item tipo3="pescado"></item>
+      </caracteristicas>
+    </dish>
+
+    
+
+  </category>
+<category name="Plats de la tradició">
+  <dish>
+    <name>Calçots</name>
+    <description>Variedad de cebolla que se recolecta en invierno. Se suele acompañar de salsa romescu</description>
+    <calorias>215 kcal</calorias>
+    <price> 9.50€</price>
+  </dish>
+  <dish>
+    <name>Mongetes</name>
+    <description>Un tipo de alubia blanca bastante mantecosa. Es el complemento ideal para las carnes a la brasa, entre otras muchas cosas</description>
+    <calorias>347 kcal</calorias>
+    <price> 11.00€</price>
+  </dish>
+  <dish>
+    <name>Fricandó</name>
+    <description>Este delicioso plato se prepara con filetes de ternera y una salsa de setas</description>
+    <price> 18.50€</price>
+    <calorias>762 kcal</calorias>
+    <caracteristicas> 
+      <item tipo2="carne"></item>
+    </caracteristicas>
+  </dish>
+  <dish>
+    <name>Entrecot</name>
+    <description>Sabrosa carne con guarnición al gusto</description>
+    <calorias>130 kcal</calorias>
+    <price> 20.00€</price>
+    <caracteristicas> 
+      <item tipo2="carne"></item>
+    </caracteristicas>
+  </dish>
+  <dish>
+    <name>Hamburguesa de ternera</name>
+    <description>Carne de ternera con guarnición al gusto</description>
+    <calorias>242 kcal</calorias>
+    <price>8.00€</price>
+    <caracteristicas> 
+      <item tipo2="carne"></item>
+    </caracteristicas>
+  </dish>
+  <dish>
+    <name>Torrada</name>
+    <description>Ración de pan untado con tomate con embutido al gusto</description>
+    <calorias>339 kcal</calorias>
+    <price>14.00€</price>
+  </dish>
+  <dish>
+    <name>Olla aranesa</name>
+    <description>Guiso con alubias blanca de Bossots, garbanzos, verduras, carne de gallina, ternera y cerdo y fideos</description>
+    <calorias>223 kcal</calorias>
+    <price>11.00€</price>
+    <caracteristicas> 
+      <item tipo2="carne"></item>
+    </caracteristicas>
+  </dish>
+</category>
+  <category name="Postres">
+    <dish>
+      <name>Tarta de queso</name>
+      <description>Pastel queso con base de galleta lotus con guarnicion de frutos rojos</description>
+      <calorias>321 kcal</calorias>
+      <price> 5,90€</price>
+    </dish>
+    <dish>
+      <name>Crema catalana</name>
+      <description>Especie de crema pastelera o natilla con una costra crujiente a base de azúcar caramelizado</description>
+      <calorias>317 kcal</calorias>
+      <price> 11,71€</price>
+    </dish>
+    <dish>
+      <name>Flan casero</name>
+      <description>Flan de huevo de la casa</description>
+      <calorias>87 kcal</calorias>
+      <price> 4.00€</price>
+      <caracteristicas> 
+        <item tipo1="glutenfree"></item>
+      </caracteristicas>
+    </dish>
+  </category>
+  <category name="Vins">
+    <dish>
+      <name>Abadal 3.9</name>
+      <description>Este destaca por sus características de frescura provocada por su sensación de acidez</description>
+      <calorias>560 kcal</calorias>
+      <price> 27.00€</price>
+      <caracteristicas> 
+        <item tipo4="alcohol"></item>
+      </caracteristicas>
+    </dish>
+    <dish>
+      <name>Cargol Treu Vi</name>
+      <description>Aporta una densidad muy elegante y fresca a la boca. Se caracteriza por ser frutal y mineral</description>
+      <calorias>520 kcal</calorias>
+      <price> 21.50€</price>
+      <caracteristicas> 
+        <item tipo4="alcohol"></item>
+      </caracteristicas>
+    </dish>
+    <dish>
+      <name>Furvus</name>
+      <description>Fermentación alcohólica que se encuentra a una temperatura inferior a 29ºC durante 12 días</description>
+      <calorias>555 kcal</calorias>
+      <price> 20.90€</price>
+      <caracteristicas> 
+        <item tipo4="alcohol"></item>
+      </caracteristicas>
+    </dish>
+    <dish>
+      <name>Somiadors</name>
+      <description>Está dotado de un sabor que provoca una intensidad en la boca impresionante</description>
+      <calorias>572 kcal</calorias>
+      <price> 16.75€</price>
+      <caracteristicas> 
+        <item tipo4="alcohol"></item>
+      </caracteristicas>     
+    </dish>
+  </category>
+</menu>
